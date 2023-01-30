@@ -33,11 +33,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto de um formulário que pode ser utilizado para criação de diversos tipos de eventos. Foi utilizado alguns conceitos bem interessantes: campos obrigatórios, campos apenas numéricos, etc.
 
-- [Visite o projeto online]([https://arturnery.github.io/nlw-11-setup-explorer](https://arturnery.github.io/curso-explorer-stage-03-projeto-01/)
+- [Visite o projeto online](https://arturnery.github.io/nlw-11-setup-explorer](https://arturnery.github.io/curso-explorer-stage-03-projeto-01/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]([<https://www.figma.com/file/UPgslV8HpBkpWUawX5zGcl/Habits-(e)-(Community)?node-id=75%3A128&t=rIYw9cDM1okxt0Xv-0>](https://www.figma.com/file/WAtwT0Fixf2d01oA9USv3n/Explorer-Stage-03-Projeto-01-(Copy)?node-id=1%3A28&t=afp2egrUXIQGBQwW-0)) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/UPgslV8HpBkpWUawX5zGcl/Habits-(e)-(Community)?node-id=75%3A128&t=rIYw9cDM1okxt0Xv-0>]É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
